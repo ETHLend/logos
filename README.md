@@ -1,1 +1,1 @@
-# logos
+Public repo for ETHLend logos.
